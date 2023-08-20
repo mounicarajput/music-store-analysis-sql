@@ -77,15 +77,6 @@ purchases is shared return all Genres.
 along with the top customer and how much they spent. For countries where the top amount spent is shared, provide all customers who spent 
 this amount.
 
-## Results
-
-The results of the project are as follows:
-
-* The most popular genre of music is "Rock".
-* The most popular artist is "Queens".
-* The most popular song is "War Pigs".
-* The average price of an album is $1.
-* The most popular country for music purchases is the United States.
 
 ## Conclusion
 
